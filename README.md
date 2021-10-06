@@ -1,4 +1,4 @@
-Welcome to the code repository for FLL team Lego Dragons!
+Welcome to the code repository for the FLL team Lego Dragons!
 
 <!---
 legodragons/legodragons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
